@@ -47,13 +47,13 @@ This is the first version of our website.
 
 ## Authors
 
-  - **Preetham G Shiva** - *Provided README Page, Backend, JavaScript* -
+- **Preetham G Shiva** - *Provided README Page, Backend, JavaScript* -
     [preethamgshiva](https://github.com/preethamgshiva)
-    - **Keerthan K Acharya** - *FrontEnd, Design and Implimentation* -
+- **Keerthan K Acharya** - *FrontEnd, Design and Implimentation* -
     [keerthankacharya](https://github.com/keerthankacharya)
- - **Rakesh Jayanna** - *Backend(XAMPP,MySQL)* -
+- **Rakesh Jayanna** - *Backend(XAMPP,MySQL)* -
     [rakeshjayanna](https://github.com/rakeshjayanna)
-    - **Vikas J** - *FrontEnd* -
+- **Vikas J** - *FrontEnd* -
    [vikasj](https://github.com/vikasjgowda)
     
 
